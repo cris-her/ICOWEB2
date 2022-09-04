@@ -1,0 +1,58 @@
+.letraColorBlanco{
+    color:white;
+}
+
+.tamañoDeLaLetra{
+    font-size:2em;
+}
+
+.bordeColorGris{
+     border:10px outset #566573;
+}
+
+.bordeColorNegro
+{
+    border:1px solid  black;    
+}
+
+.tamano1Tabla{
+    width:100%; 
+    height:10%;    
+}
+
+.tamano3Tablas{
+    width:100%; 
+    height:5%;
+}
+
+.colorVerde{
+    
+    background-color:#1abc9c; 
+}
+
+.colorRojo{
+    background-color:red;
+}
+
+.colorAzul{
+    background-color:aqua;
+}
+
+.colorBlanco{
+    background-color: white;
+}
+.colorVioleta{
+    background-color: blueviolet;
+}
+
+.colorAmarillo{
+    background-color:yellow;
+}
+.colorLima{
+    background-color: chartreuse;
+}
+
+.margen{
+    margin:  -5px;
+    padding: -5px;
+}
